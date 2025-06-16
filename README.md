@@ -12,3 +12,8 @@ Está diseñado para el análisis de inteligencia de amenazas, la previsión de 
 4. ¿De cuántos millones de dolares fue la pérdida financiera y a cuántos usuarios afectó?
 5. ¿Qué seguridad fue vulnerada y qué mecanismos de defensa se utilizaron?
 6. ¿En cuántas horas se soluciono el incidente?
+
+## 📊 Visualizaciones y Análisis
+
+
+### 📈 2. Análisis Univariado
