@@ -6,7 +6,7 @@ Este proyecto utiliza el dataset “Global Cybersecurity Threats ” proveniente
 Está diseñado para el análisis de inteligencia de amenazas, la previsión de tendencias de ciberseguridad y el desarrollo de modelos de aprendizaje automático para mejorar la seguridad digital global.
 
 ### ❓ Preguntas / Hipótesis de interés
-1. País y año en el que ocurrio en ciberataque.
+1. País y año en el que ocurrio el ciberataque.
 2. Tipo y origen del ciberataque detectado.
 3. ¿Qué industria fue el objetivo?
 4. ¿De cuántos millones de dolares fue la pérdida financiera y a cuántos usuarios afectó?
